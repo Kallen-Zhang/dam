@@ -1,0 +1,13 @@
+P {
+  border: 1px solid rgb(225,200,200);
+  padding: 0px;
+  margin: 0px;
+  color: rgb(255,100,200)
+
+}
+P
+a {
+  text-decoration: none;
+  color: rgb(0, 180, 30);
+  border:10px dotted rgb(255, 255, 180);
+}
